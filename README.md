@@ -2,5 +2,3 @@
 Computational Assessment 
 # Meeting Notes
 ### Week 1
-
-#Evren's Experiemnt
