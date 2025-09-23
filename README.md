@@ -6,6 +6,7 @@ Attendence: Evran, Gigi, Ella
 Notes:
 Need to choose problem for comp assignment
 Leaning towards option 1: Globular clusters
+Meeting to be cont. week 2 wednesday
 ### Week 2
 Attendence: 
 Notes:
