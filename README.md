@@ -7,6 +7,11 @@ Notes:
 Need to choose problem for comp assignment
 Leaning towards option 1: Globular clusters
 Meeting to be cont. week 2 wednesday
+
+Project Choice
+Scheduling
+-Make 1 holy document that we only touch when we agree
+-meetings held every week on friday lecture break from now on
 ### Week 2
 Attendence: 
 Notes:
