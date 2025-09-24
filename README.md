@@ -12,6 +12,7 @@ Project Choice
 Scheduling
 -Make 1 holy document that we only touch when we agree
 -meetings held every week on friday lecture break from now on
+-New convention for commits - "Document Name: Commit Message"
 ### Week 2
 Attendence: 
 Notes:
