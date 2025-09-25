@@ -1,6 +1,7 @@
 Important Sources:
 In-situ versus accreted Milky Way globular clusters: a new classification method and implications for cluster formation - https://academic.oup.com/mnras/article/528/2/3198/7485911
 - Figures 3 and 4 are incredibly halpful as they depict Fe/H graphed against age (both values that we have) and clear differentiation between in-situ GC's and accretted ones
+- In-situ GC's range from FeH values from 0 to ~-2, while accretted seem to only have lower values (~-1 to ~-2)
 
 Related Material:
 Nitrogen enrichment and clustered star formation at the dawn of the Galaxy - https://arxiv.org/abs/2306.00060 
