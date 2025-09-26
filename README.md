@@ -17,8 +17,12 @@ Attendence: Evren, Gigi, Ella
 - New convention for commits - "Document Name: Commit Message"
 
 ### Week 2
-Attendence: 
+Attendence: Evren, Gigi, Ella
 Notes:
+- Evran has been working on a paper, combined krause+vandeberg, created scatterplot of Age v Fe/H
+- Combined dataframes, Two paths along graph that show accretion vs globular
+- Should go through all datasets to ensure no doubleups 
+- Find ways to obtain age for other datasets
 ### Week 3
 Attendence: 
 Notes:
