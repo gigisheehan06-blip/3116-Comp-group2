@@ -2,17 +2,20 @@
 Computational Assessment 
 # Meeting Notes
 ### Week 1
-Attendence: Evran, Gigi, Ella
-Notes:
-Need to choose problem for comp assignment
-Leaning towards option 1: Globular clusters
-Meeting to be cont. week 2 wednesday
+Attendence: Evren, Gigi, Ella
 
-Project Choice
-Scheduling
--Make 1 holy document that we only touch when we agree
--meetings held every week on friday lecture break from now on
--New convention for commits - "Document Name: Commit Message"
+#### Notes:
+
+- Need to choose problem for comp assignment
+- Leaning towards option 1: Globular clusters
+- Meeting to be cont. week 2 wednesday
+
+#### Scheduling:
+
+- Make 1 holy document that we only touch when we agree
+- meetings held every week on friday lecture break from now on
+- New convention for commits - "Document Name: Commit Message"
+
 ### Week 2
 Attendence: 
 Notes:
