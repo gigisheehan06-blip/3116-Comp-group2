@@ -11,3 +11,4 @@ Coding Help:
 Pandas Read CSV in Python - https://www.geeksforgeeks.org/pandas/python-read-csv-using-pandas-read_csv/
 How do I create plots in Pandas - https://pandas.pydata.org/docs/getting_started/intro_tutorials/04_plotting.html 
 Python Matplotlib - Creating Multiple Scatter Plots in the Same Figure - https://pythonexamples.org/python-matplotlib-multiple-scatter-plots/ 
+How to make a 3D scatterplot - https://stackoverflow.com/questions/1985856/how-to-make-a-3d-scatter-plot 
