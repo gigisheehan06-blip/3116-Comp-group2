@@ -24,8 +24,14 @@ Notes:
 - Should go through all datasets to ensure no doubleups 
 - Find ways to obtain age for other datasets
 ### Week 3
-Attendence: 
-Notes:
+Attendence: Gigi, Ella
+Notes: 
+- Find correlations between metallicity and other data points to apply to harris
+- Create function to make 'seperator' line on Fe/H plot less hand-wavy 
+- Get correlations and plot them by sunday
+- Gigi does correlations, ella plots
+- To discuss further: have evren work on function to filter what is above and below seperator line. -might be tricky, doesn't need to be hard complete by sunday
+- Ella trying something similar to 3d plot in 2d plot
 ### Week 4
 Attendence: 
 Notes:
