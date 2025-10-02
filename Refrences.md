@@ -22,3 +22,4 @@ Python Matplotlib - Creating Multiple Scatter Plots in the Same Figure - https:/
 How to make a 3D scatterplot - https://stackoverflow.com/questions/1985856/how-to-make-a-3d-scatter-plot 
 How to Draw a Line Inside a Scatter Plot - https://www.geeksforgeeks.org/data-visualization/how-to-draw-a-line-inside-a-scatter-plot/ 
 Removing Data Below A Line In A Scatterplot (Python) - https://stackoverflow.com/questions/44061823/removing-data-below-a-line-in-a-scatterplot-python 
+Renaming column names in Pandas - https://stackoverflow.com/questions/11346283/renaming-column-names-in-pandas 
