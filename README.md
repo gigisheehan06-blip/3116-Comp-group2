@@ -33,8 +33,17 @@ Notes:
 - To discuss further: have evren work on function to filter what is above and below seperator line. -might be tricky, doesn't need to be hard complete by sunday
 - Ella trying something similar to 3d plot in 2d plot
 ### Week 4
-Attendence: 
+Attendence: Evran, Ella, Gigi
 Notes:
+- Want to go about picking out points
+- make marker for 'Accreted' to use function to pick out dynamical and metallicity marked clusters
+- Get dynamical clusters from Harris
+- Make pretty powerpoint 
+- What dynamical info we need
+- cross reference different types
+- Ella does position stuff
+- Gigi does more velocity based stuff
+- Aim to submit week six, film week six, have coding done week 5 (by group meeting)
 ### Week 5
 Attendence: 
 Notes:
