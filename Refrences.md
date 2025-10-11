@@ -15,6 +15,12 @@ Accreted Globular Clusters and Horizontal Branch Morphology in the
  GLOBCLUST - Milky Way Globular Clusters Catalog (December 2010 Version) - https://heasarc.gsfc.nasa.gov/w3browse/all/globclust.html 
  - Lists all parameters
 
+ ## Dynamical properties
+ In-situ versus accreted Milky Way globular clusters: a new classification method and implications for cluster formation Open Access
+Vasily Belokurov,  Andrey Kravtsov
+
+
+
 ## Coding Help:
 Pandas Read CSV in Python - https://www.geeksforgeeks.org/pandas/python-read-csv-using-pandas-read_csv/
 How do I create plots in Pandas - https://pandas.pydata.org/docs/getting_started/intro_tutorials/04_plotting.html 
