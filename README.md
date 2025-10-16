@@ -45,8 +45,19 @@ Notes:
 - Gigi does more velocity based stuff
 - Aim to submit week six, film week six, have coding done week 5 (by group meeting)
 ### Week 5
-Attendence: 
+Attendence: Ella, Evren, Gigi
 Notes:
+- Evran goes away friday next week FILM THURSDAY
+    - Have powerpoint, script/outline done by wednesday
+- Gigi: create list of of what i think are accreted by saturday
+    - go through data documentation, double check params
+    - correlation of params with each other
+- Cross reference with position, papers, etc, other teammates work
+- Ella: 3 2d scatter plots, used curser to find boundary for accreted and not
+    - made filtering function
+    - dupilate detector function
+- make script/plan for vid in markdown  - outline
+- Evren: begin to make plots nice, label, make plots for video so they can be used
 ### Week 6 - 
 ### Week 7
 Attendence: 
