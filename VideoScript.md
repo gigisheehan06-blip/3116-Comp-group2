@@ -9,6 +9,7 @@
 - Data reveals in-situ GC's tend to be slightly older and have larger metalicites
 - The 'Chemical Bimodality' present in the MW only appears within the in-situ GC's while all accreted ones seem to keep to lower Fe/H values
 - There is slight overlap for accreted and in-situ GC's for the oldest and lowest metalicity clusters, but there is a clear divide for younger ones
+- Using Krause and vandenBerg data as Harris didn't have age values for it's GCs
 - Using plot from paper, we devised a rough line that seperates accreted from in-situ GCs
 - We then create a mask that selects all the clusters below the line
 - We then can take this data and add it to an empty list, which checks for duplicates before adding the GC
