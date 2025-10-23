@@ -19,6 +19,10 @@ Accreted Globular Clusters and Horizontal Branch Morphology in the
  In-situ versus accreted Milky Way globular clusters: a new classification method and implications for cluster formation Open Access
 Vasily Belokurov,  Andrey Kravtsov
 
+The velocity dispersion and mass function of the outer halo globular cluster Palomar 4 Free
+Matthias J. Frank, Michael Hilker, Holger Baumgardt, Patrick Côté, Eva K. Grebel, Hosein Haghi, Andreas H. W. Küpper, S. G. Djorgovski Author Notes
+Monthly Notices of the Royal Astronomical Society, Volume 423, Issue 3, July 2012, Pages 2917–2932, https://doi.org/10.1111/j.1365-2966.2012.21105.x
+Published: 19 June 2012
 
 
 ## Coding Help:
