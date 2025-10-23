@@ -26,8 +26,15 @@
 
 
 # Gigi code talking points
-
-
+- Accreted globular clusters previously classified via location and by Al/Fe metallicity
+- Want to see if there is a similar method of classifying via velocity dispersion and other dynamical properties
+- Barkarov says there is a method using total energy of the cluster and the orbital angular momentum.
+- Niether properties are explicitly provided, so using OTHER properties related to the motion and kinematics intrinsic to the clusters, want to see if there is reason to consider those properties when classifying accreted vs in-situ
+- Velocity dispersion did not have enough data. There is predicted curve flattening in the graph between sigma v and galactic radius, but only one cluster has data which aligns with the trend predicted by frank et al (2012) and was confirmed by teammates to be accreted. probably a good method, not enough data here.
+- Ella mentioned there is also a likeliness for accretted clusters to lie in the galactic halo
+- See this kind of in the spacial graph
+- Also looked at radial velocity, no known correlation but checked anyway
+- Other than larger radial velocities appearing closer to center which is expected due to conservation of momentum, there is no large trend visible that would indicate any relevance to accretted clusters without the masses being known.
 
 
 ## Research questions talking points
