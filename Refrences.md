@@ -34,3 +34,38 @@ How to Draw a Line Inside a Scatter Plot - https://www.geeksforgeeks.org/data-vi
 Removing Data Below A Line In A Scatterplot (Python) - https://stackoverflow.com/questions/44061823/removing-data-below-a-line-in-a-scatterplot-python 
 Renaming column names in Pandas - https://stackoverflow.com/questions/11346283/renaming-column-names-in-pandas 
 Remove rows that contain False in a column of pandas dataframe - https://stackoverflow.com/questions/37213556/remove-rows-that-contain-false-in-a-column-of-pandas-dataframe 
+
+
+
+
+## Sources for Written Report
+# Spatial / Positional research:
+
+
+“The SFH starts by being dominated by the accreted population, indicating that the Milky Way progenitor assembles mostly through the merging of smaller galaxies”
+Florent Renaud, Oscar Agertz, Mark Gieles, The origin of the Milky Way globular clusters, Monthly Notices of the Royal Astronomical Society, Volume 465, Issue 3, March 2017, Pages 3622–3636, https://doi.org/10.1093/mnras/stw2969 
+
+This paper is consistent with our results. We conclude, based on the large fraction of accreted globular clusters, that the Milky Way was formed through many many merger events. (Find wording for this from the video).
+
+
+
+
+“A large, perhaps dominant fraction, of the Milky Way's halo is thought to be built up by the accretion of smaller galaxies and their globular cluster (GC) systems. Here, we examine the Milky Way's GC system to estimate the fraction of accreted versus in situ formed GCs.”
+Duncan A. Forbes, Terry Bridges, Accreted versus in situ Milky Way globular clusters, Monthly Notices of the Royal Astronomical Society, Volume 404, Issue 3, May 2010, Pages 1203–1214, https://doi.org/10.1111/j.1365-2966.2010.16373.x 
+
+This paper helped us direct our experiment. The Haris data gives us positional information about a list of globular clusters. From the information in this paper, we can determine that any globular clusters which sit in the halo are likely to be accreted. As such, we can create a series of scatterplots and set boundaries on the galactic halo. Globular clusters that lie beyond certain physical points are then likely to be accreted. 
+
+
+
+
+
+
+
+“accreted GCs have a wide distribution of distances and a spatial distribution close to spherical”
+“The earliest efforts to identify accreted and in-situ clusters were based on the metallicity and spatial distribution of GCs”
+“Some of their criteria relied on traditional cuts used in previous studies, such as a cut on the maximum Z coordinate to identify ‘disc’ clusters. Although reasonable, such criteria left a significant fraction of clusters with ambiguous/uncertain classification and these clusters were putatively assigned to new accreted structures (e.g. the ‘low-energy group’) or known dwarf galaxies or streams”
+“similarly to the early studies, in the recent classification attempts, a large fraction of the low-metallicity GCs with non-disc kinematics has been attributed to the accreted halo.”
+
+Vasily Belokurov, Andrey Kravtsov, In-situ versus accreted Milky Way globular clusters: a new classification method and implications for cluster formation, Monthly Notices of the Royal Astronomical Society, Volume 528, Issue 2, February 2024, Pages 3198–3216, https://doi.org/10.1093/mnras/stad3920
+
+The above essentially validates one of the methods we are using (spatial / positional method) by saying that if a candidate for an accreted GC has the right kinematics and metalicity, and they also sit in the halo, we can be pretty certain it is an accreted globular cluster. 
